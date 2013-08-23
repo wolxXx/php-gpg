@@ -11,5 +11,8 @@
     ],
     "include-path": [
         "libs"
-    ]
+    ],
+    "autoload": {
+                  "classmap": ["libs/"]
+                }
 }
