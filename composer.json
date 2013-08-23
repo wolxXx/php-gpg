@@ -1,0 +1,54 @@
+{
+    "name": "visono/pgp",
+    "description": "The MediaAssetManagement software",
+    "minimum-stability": "dev",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "chris dahl",
+            "email": "c.dahl@visono.biz"
+        },
+        {
+            "name": "johannes roeder",
+            "email": "j.roeder@visono.biz"
+        },
+        {
+            "name": "nils bujny",
+            "email": "n.bujny@visono.biz"
+        },
+        {
+            "name": "andrei martyniuk",
+            "email": "a.martyniuk@visono.biz"
+        },
+        {
+            "name": "renÃ© woltmann",
+            "email": "r.woltmann@visono.biz"
+        },
+        {
+            "name": "patrik hagedorn",
+            "email": "p.hagedorn@visono.biz"
+        },
+        {
+            "name": "felix seeberg",
+            "email": "f.seeberg@visono.biz"
+        },
+        {
+            "name": "felix seeberg",
+            "email": "f.seeberg@visono.biz"
+        }
+    ],
+
+    "autoload": {
+        "classmap": [
+            "../../../MAM/library"
+        ]
+    },
+
+    "config": {
+        "bin-dir": "../../../bin",
+        "vendor-dir": "../../../vendor"
+    },
+
+    
+    
+}
