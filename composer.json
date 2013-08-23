@@ -8,5 +8,8 @@
             "name": "Visono GmbH",
             "email": "it@visono.biz"
         }
+    ],
+    "include-path": [
+        "libs"
     ]
 }
